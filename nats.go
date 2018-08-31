@@ -35,7 +35,7 @@ import (
 	"time"
 
 	"github.com/liornabat/go-nats/util"
-	"github.com/nats-io/nuid"
+	"github.com/liornabat/nuid"
 )
 
 // Default Constants

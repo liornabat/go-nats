@@ -1,5 +1,6 @@
 github.com/liornabat/go-nats v1.6.0 h1:+BVFxJlT6G6bjxkTgfQCjQCIPAD2BnoCqnCtZMmcCMg=
 github.com/liornabat/go-nats v1.6.0/go.mod h1:XjV7Wl96MmT+3HCqO+4IGp6HYzQ/jWazB0xJzNtnx+E=
+github.com/liornabat/nuid v1.0.0 h1:E5hppaUk2KwZKui8UD3dQq3ovH0gqd0cbh48hoipgBY=
 github.com/liornabat/nuid v1.0.0/go.mod h1:e2m92LVkwa/Ze9N/O52/6qsJuolTN2oOcJrqrgpllV0=
 github.com/nats-io/nuid v1.0.0 h1:44QGdhbiANq8ZCbUkdn6W5bqtg+mHuDE4wOUuxxndFs=
 github.com/nats-io/nuid v1.0.0/go.mod h1:19wcPz3Ph3q0Jbyiqsd0kePYG7A95tJPxeL+1OSON2c=

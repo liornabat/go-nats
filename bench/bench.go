@@ -23,7 +23,7 @@ import (
 	"time"
 
 	"github.com/liornabat/go-nats"
-	"github.com/nats-io/nuid"
+	"github.com/liornabat/nuid"
 )
 
 // A Sample for a particular client
