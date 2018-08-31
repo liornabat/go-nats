@@ -20,10 +20,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/nats-io/gnatsd/server"
-	"github.com/nats-io/go-nats"
+	"github.com/liornabat/gnatsd/server"
+	"github.com/liornabat/go-nats"
 
-	gnatsd "github.com/nats-io/gnatsd/test"
+	gnatsd "github.com/liornabat/gnatsd/test"
 )
 
 // So that we can pass tests and benchmarks...

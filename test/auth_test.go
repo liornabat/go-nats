@@ -20,9 +20,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/nats-io/gnatsd/server"
-	"github.com/nats-io/gnatsd/test"
-	"github.com/nats-io/go-nats"
+	"github.com/liornabat/gnatsd/server"
+	"github.com/liornabat/gnatsd/test"
+	"github.com/liornabat/go-nats"
 )
 
 func TestAuth(t *testing.T) {

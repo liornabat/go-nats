@@ -18,8 +18,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/nats-io/go-nats"
-	"github.com/nats-io/go-nats/encoders/builtin"
+	"github.com/liornabat/go-nats"
+	"github.com/liornabat/go-nats/encoders/builtin"
 )
 
 const TEST_PORT = 8168

@@ -32,8 +32,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/nats-io/gnatsd/server"
-	gnatsd "github.com/nats-io/gnatsd/test"
+	"github.com/liornabat/gnatsd/server"
+	gnatsd "github.com/liornabat/gnatsd/test"
 )
 
 // Dumb wait program to sync on callbacks, etc... Will timeout

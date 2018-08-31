@@ -18,10 +18,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/nats-io/go-nats"
+	"github.com/liornabat/go-nats"
 
-	"github.com/nats-io/go-nats/encoders/protobuf"
-	pb "github.com/nats-io/go-nats/encoders/protobuf/testdata"
+	"github.com/liornabat/go-nats/encoders/protobuf"
+	pb "github.com/liornabat/go-nats/encoders/protobuf/testdata"
 )
 
 func NewProtoEncodedConn(tl TestLogger) *nats.EncodedConn {
